@@ -1,0 +1,551 @@
+subscriber_id,email,name,subscription_status,signup_date,referral_source,tags
+aac70511-9a21-4043-9de1-4f1d284dd5f3,ronald23@example.org,David Stanley,unsubscribed,2023-09-23 00:00:00,social_media,politics|education|finance|fashion|science
+aee738af-b780-4ec6-94e7-3c4f609135e3,jenna23@example.org,Shannon Smith,bounced,2021-01-28 00:00:00,direct,news|science|education|sports
+9b8b4d10-7600-46e7-b49d-6b9422814aae,michael47@example.com,Melinda Holt,spam_complaint,2023-05-28 00:00:00,social_media,education
+d1027aef-622a-4069-856d-3c890c02c4b1,jacksonalexandra@example.net,Thomas Hopkins,pending,2023-06-04 00:00:00,social_media,education|finance
+9a165453-ed82-4ffb-9245-c15ada6400b2,vroberts@example.org,Ian Norris,pending,2020-12-20 00:00:00,social_media,health|education|technology
+297a76e7-72ae-4d08-a78f-49c081388bea,markalvarez@example.net,Alexander Swanson,bounced,2021-08-25 00:00:00,organic_search,sports|marketing
+7d52a70d-c9c3-4aca-9d37-aaeece1557f7,ramossharon@example.net,Cameron Beard,bounced,2024-03-31 00:00:00,email_campaign,health|finance|fashion|business|sports
+27b613a8-bf8b-4623-bc66-490ed5602ecc,dmcneil@example.net,Keith Friedman,spam_complaint,2023-06-11 00:00:00,referral,politics|fashion|sports|marketing
+629cc4aa-ae1a-412c-a20e-adc7fe060501,kayla35@example.net,James Sims,active,2022-10-04 00:00:00,direct,technology|science|arts|fashion
+056daa9e-840c-48aa-a2a1-77683c3a1062,edwardherrera@example.net,Kelly Bernard,active,2024-03-28 00:00:00,direct,
+b133cb6b-a5de-4369-8263-2b1525c22f14,nbrown@example.com,Bryan Colon,unsubscribed,2020-11-08 00:00:00,referral,politics|finance|news|health
+3b37c5c0-c8e3-4428-b3fe-8cbee5bd8f8f,broberts@example.net,Thomas Curtis,active,2024-10-17 00:00:00,email_campaign,
+d0785454-918b-4da2-87ef-493d189a785e,john37@example.com,Nicholas Jones,unsubscribed,2021-06-22 00:00:00,social_media,marketing|science|sports
+ea5e8b3b-83c6-47cb-b071-a0cd64ab01dc,meredithmoody@example.org,,spam_complaint,2024-01-27 00:00:00,email_campaign,education|finance|technology|sports|entertainment
+25de2273-b1fa-4f9b-b146-415ab14538b3,lgomez@example.org,Laura Perkins,spam_complaint,2021-11-12 00:00:00,referral,fashion|news
+2dfac965-c791-4b88-9cfd-c8bb7bbe4fa1,jennifersmith@example.org,Joseph King,unsubscribed,2020-03-21 00:00:00,email_campaign,business|sports
+3ebe6c0b-c713-4986-9c44-ee5aa1813304,tammysharp@example.org,Tiffany Anderson,pending,2022-11-13 00:00:00,referral,sports|fashion|politics
+cf94f1f5-cade-4dec-b147-ef10de23c554,cpeterson@example.org,Mary Steele,unsubscribed,2022-08-29 00:00:00,social_media,politics|sports|marketing|science
+71cce2d7-ef73-435e-82ff-3b48575d3a19,shannon75@example.com,Ashley Davis,active,2021-06-03 00:00:00,direct,
+386d158d-ebf7-4a13-8889-dd070017902d,gallegosjoshua@example.com,,pending,2023-07-17 00:00:00,email_campaign,education|science|arts
+c76b9bde-be47-49d0-987b-a79d629a1a67,gmedina@example.com,Joshua Davis,unsubscribed,2023-07-21 00:00:00,paid_ad,
+30f73013-6b00-4780-8683-6f63c78970e0,troymosley@example.com,Madison Gibson,spam_complaint,2020-09-11 00:00:00,social_media,entertainment|fashion|technology|marketing
+65afe520-72d9-47c2-bd94-c1ee90058aab,sarah75@example.com,Brianna Richardson,spam_complaint,2023-09-04 00:00:00,referral,
+2882bb6b-f196-4f40-bf2a-8c9e5b23587e,wellsashley@example.org,Norman Flores,bounced,2023-09-05 00:00:00,email_campaign,news|finance|education
+db977bb1-e065-40f8-bab4-a368a214cf3f,linda17@example.com,Adam Rose,spam_complaint,2021-01-07 00:00:00,organic_search,marketing|finance|health|entertainment|science
+8b4badbf-e74c-483d-89bd-aff38ac04941,mparker@example.org,Bryan Bryant,active,2022-04-19 00:00:00,referral,finance|marketing|fashion|business|arts
+ef3caefe-df74-491b-9d9e-fab697a84e9d,crystal57@example.org,,bounced,2023-06-03 00:00:00,social_media,marketing
+f251d4ed-5321-44e8-bf15-85f8532b019a,kylereyes@example.net,Jose Pena,active,2020-05-30 00:00:00,social_media,
+d94065e7-0d97-4d05-b52c-3b9a296af3a2,turnerjohn@example.org,Paul Williams,bounced,2021-01-25 00:00:00,paid_ad,sports|technology
+1c4d677b-3556-4614-90aa-362b503eeaec,jasonfranklin@example.com,James Galvan,bounced,2022-12-16 00:00:00,direct,finance|education|marketing|news|fashion
+c48d9ec8-9395-4b15-b723-64e499db8db2,brettreed@example.org,Jennifer Butler,pending,2023-09-20 00:00:00,email_campaign,health|arts
+2de835c9-e401-485a-906e-882c7c448d16,thompsonabigail@example.com,April Marsh,active,2024-08-22 00:00:00,paid_ad,business|politics|science
+4be421c3-f97e-4ab4-be42-d25e557322f0,frank48@example.com,James Rivera,spam_complaint,2022-01-23 00:00:00,email_campaign,
+7fa8d19d-4c7e-4119-9185-343bd01c85e7,hensleydonna@example.com,Taylor Dunn,bounced,2020-08-24 00:00:00,social_media,technology|arts|health|entertainment
+a2cd789a-32f5-4181-b028-bcd7d0b3258b,frankjones@example.org,Heather Farmer,active,2023-02-17 00:00:00,referral,finance
+181b9bc7-d799-42f4-bf47-12a211eb4605,michaelwilson@example.com,David Cross,spam_complaint,2023-07-29 00:00:00,referral,finance|fashion|entertainment|technology|arts
+4a09a593-6217-4364-9098-534109628c62,andreaobrien@example.org,Lauren Houston,spam_complaint,2020-04-07 00:00:00,paid_ad,marketing|business|finance
+da5fb507-4c57-458a-a92d-e0140a938fe8,brad91@example.com,,unsubscribed,2022-02-09 00:00:00,paid_ad,technology|health
+b19372b9-6c0d-4be9-9042-223c09fbe58c,jill72@example.org,Annette Fuller,active,2022-04-14 00:00:00,organic_search,news|finance|entertainment
+6cf7ca6c-13cd-4a13-9a4a-f4501040ab36,martinsusan@example.org,Phyllis Frost,pending,2023-11-21 00:00:00,organic_search,news|finance|technology|business
+1c346fe3-2579-48ce-ab3a-c0ff52717b86,kellypeters@example.org,John Rowe,pending,2020-04-15 00:00:00,social_media,arts|business|sports|science
+82ea25cc-468d-4133-95a1-a6be631b487a,ethan18@example.com,Thomas Vazquez,pending,2024-03-05 00:00:00,organic_search,science|technology|fashion
+cab3670c-75b4-483d-8bf6-fb01a047270f,nicolelopez@example.org,Jared Weaver,spam_complaint,2020-02-05 00:00:00,paid_ad,politics|science
+692aa45c-02a2-46c3-83e0-098aa6073720,cgriffin@example.com,Tiffany Yu,bounced,2024-12-12 00:00:00,paid_ad,marketing|arts|sports
+831fefce-e99a-482e-8104-c139fdf1899b,evanschristopher@example.net,Kristina Johnson,unsubscribed,2024-03-19 00:00:00,referral,marketing|health
+da4b2d58-f835-40cd-808b-4936bc017cea,martinkenneth@example.com,Luis Campbell,spam_complaint,2020-08-02 00:00:00,organic_search,
+9ad67a61-8a1a-41c6-a914-b6e01ae4b0e1,hardinlauren@example.net,Katherine Rodriguez,unsubscribed,2021-06-04 00:00:00,email_campaign,finance
+680b6aca-c839-4fa3-8612-7afc163eebec,vwilliams@example.net,Melissa Esparza,unsubscribed,2021-07-03 00:00:00,referral,sports|finance
+502d50d3-a177-458c-b86c-de4b0a3b0d89,paula11@example.com,Jason Bennett,spam_complaint,2021-07-09 00:00:00,email_campaign,business|arts|technology|marketing
+ba0817ae-3d44-4bab-a16e-8c39896fa289,bakeraaron@example.com,Mr. Douglas Fletcher,spam_complaint,2022-12-17 00:00:00,referral,entertainment|science|arts|politics|health
+e28adb9d-4aef-476c-8252-49f90942e87c,amylyons@example.net,Frank Allen,unsubscribed,2025-02-01 00:00:00,email_campaign,entertainment|business|arts|politics
+91905923-20cf-48ca-820e-9c15e34ceb12,michael36@example.net,Bonnie West,unsubscribed,2022-03-18 00:00:00,paid_ad,
+34ad3671-919e-4604-9ec6-17cf823b6d43,amanda48@example.com,Michelle Park DDS,spam_complaint,2021-06-19 00:00:00,direct,technology|marketing|education|sports|politics
+82792866-6714-45d3-b12e-75442cf5a9c6,bryanttodd@example.com,Thomas Morris,pending,2023-06-10 00:00:00,direct,technology|entertainment|sports
+c3435c53-371b-4034-81ef-9c1d47d1e7b6,edwardssarah@example.com,Holly Miller,bounced,2021-05-18 00:00:00,organic_search,health|finance|arts|entertainment
+f21969a4-7287-47b6-aecb-db0ee67abd0f,danielsmolly@example.net,,active,2023-02-23 00:00:00,paid_ad,marketing|education|sports
+bfc67333-adca-4521-8d7d-274ac4109bc6,george71@example.com,Christine Smith,active,2023-10-04 00:00:00,organic_search,marketing|entertainment|education|finance
+fc55337c-a946-462d-a32d-b285f44e6e7f,jenniferlyons@example.net,Lisa West,unsubscribed,2021-06-07 00:00:00,direct,education|marketing|arts
+9c02bb50-4984-4585-b3ad-4322430e975c,goodamanda@example.net,John Bridges,active,2023-04-17 00:00:00,email_campaign,fashion|business|politics|sports
+41056f46-cf87-40e0-8449-cc81f227bce5,smithevan@example.net,Jaclyn Rice,active,2024-08-29 00:00:00,email_campaign,news|entertainment|technology|fashion
+7246d369-3dbb-43e5-9a2d-c2936a3e39f4,heather95@example.com,Diana Cruz,pending,2025-02-24 00:00:00,organic_search,science|entertainment|marketing|arts
+d141f3fd-fe31-41da-bc51-a4fe94ec2ea0,john75@example.com,Brian Kim,bounced,2021-05-05 00:00:00,social_media,technology|science
+59255526-45ca-4855-9d65-c9e5225412fb,ugreen@example.net,,bounced,2022-08-30 00:00:00,email_campaign,arts
+d63643fe-d41c-4df7-a7e0-abf8c87998b3,joshua81@example.org,,pending,2022-02-06 00:00:00,referral,science|business
+c4609718-da7d-40f2-b195-7558514e6846,mariaandrews@example.com,Gregory Scott,active,2024-06-01 00:00:00,organic_search,technology|marketing|business
+5d839663-c488-4849-b0fa-d01d15128e5f,ibarajas@example.org,Lisa Owens,pending,2020-03-09 00:00:00,organic_search,news|health|finance|arts|technology
+c0c8d9b4-5811-423c-89c0-eccf20278083,jasmin63@example.com,Joanna Martin,active,2022-10-17 00:00:00,social_media,
+21b3d31d-3680-49e0-89d8-331d955333de,ucarney@example.com,Carlos Ward,spam_complaint,2020-05-01 00:00:00,organic_search,entertainment|news
+468298e0-717c-4bc5-b024-a1a5c8bdf274,barberrebecca@example.com,,active,2024-08-16 00:00:00,organic_search,marketing|science
+fcb8e74a-d87d-4900-a566-81bb84711aaa,foleyjohn@example.net,Bryan Cherry,pending,2023-06-03 00:00:00,email_campaign,science|marketing
+1aa78c0f-93fe-481e-8067-60ddc4b8f474,drivera@example.org,Robert Fox,unsubscribed,2022-07-30 00:00:00,paid_ad,marketing
+cade930e-8b56-44aa-8e50-4489c2acb0b9,vharris@example.com,Nicole Walker,bounced,2021-11-20 00:00:00,organic_search,business|sports|health|finance|news
+e53fa1c9-8829-4843-8065-35a06e065ce3,chaneystephanie@example.net,Peter Wallace,spam_complaint,2020-09-08 00:00:00,paid_ad,technology|finance
+40bd6bdc-24d4-4858-83e8-81ac4df25303,joycerobinson@example.net,John Hunter,active,2022-02-08 00:00:00,email_campaign,business
+64ee11f0-9fdb-4fc8-bfa5-52f4247a61e3,louis70@example.org,Jennifer Roberson,spam_complaint,2021-10-16 00:00:00,organic_search,marketing|education|sports|news|science
+94ba210d-1ed0-4f49-9a30-2f3de770a988,reginamartin@example.com,Christopher Boyd,spam_complaint,2023-10-17 00:00:00,referral,education|science|finance|fashion|entertainment
+f1356ed4-7a49-4c4c-9ca4-39e34c84c6a7,rcooper@example.net,Richard Elliott,bounced,2020-11-30 00:00:00,direct,finance|science
+05aeac11-287f-4e8f-a5da-8dd0652815c7,kristinmiranda@example.net,Edward Molina,active,2021-06-30 00:00:00,paid_ad,marketing|arts|news|science
+ac59ce1e-4b42-4afa-a94e-1ab8c0a234c9,sarahdiaz@example.org,Matthew Hall,active,2021-10-15 00:00:00,direct,
+e69f2509-7154-4ec9-8014-73f53ded1e14,nwhitaker@example.net,Ernest Weiss,bounced,2024-07-08 00:00:00,social_media,health
+103b7cf8-181f-4646-9e8a-5e93180fbff1,moseskaren@example.org,Amber Rios,spam_complaint,2021-02-03 00:00:00,paid_ad,entertainment|news|business|education|health
+6cb135ca-d23b-44cc-b92a-57e0649ed8fc,hgarcia@example.net,Alicia Franco,active,2020-07-23 00:00:00,email_campaign,
+ef942e74-3ea8-47ca-8263-e3e23a78fd28,dana78@example.com,Brian Anderson,active,2020-01-29 00:00:00,social_media,entertainment|arts|technology|finance
+e95f0fb3-995f-440c-8718-4df10d638303,gregorybarrett@example.org,Rebecca Sherman,spam_complaint,2023-02-26 00:00:00,direct,news|sports|entertainment|health
+90ae77e3-4714-40d7-aff4-969fc4bc442b,smithkristina@example.net,Anita Lozano,spam_complaint,2022-04-19 00:00:00,paid_ad,business|entertainment|arts
+9d5b45be-144c-4934-bbec-26cfb3c3d385,qstephens@example.org,,unsubscribed,2023-01-27 00:00:00,email_campaign,finance|entertainment|health|politics
+0c8bad69-8569-4786-aeb0-eb6a5f67793b,grobbins@example.com,Wendy Williams,active,2024-09-25 00:00:00,social_media,education
+b96648c3-63b4-42b1-abda-1160f1ea31a4,wbennett@example.net,Marcus Watson,bounced,2020-06-05 00:00:00,social_media,business
+f82da9b1-7f26-4fb5-b21a-d02cfa371762,catherinewood@example.com,Brianna Patrick,pending,2024-10-25 00:00:00,referral,health|arts|fashion|education
+4a03ee33-e7cf-46af-9fef-95f65cc8a00a,karen08@example.net,Walter Baker,spam_complaint,2024-12-31 00:00:00,referral,arts
+28b349d8-ca81-444a-9f83-8094ae2124db,crawfordmindy@example.net,Patrick Bailey,pending,2023-02-23 00:00:00,social_media,sports|health|arts
+531c3f51-5597-448f-b10f-8dd78f6a948c,fergusonrhonda@example.org,April Hoffman,spam_complaint,2024-06-10 00:00:00,email_campaign,health|fashion|education|entertainment
+c6879609-8b68-45c2-8cb5-771e75975fbf,jacobward@example.net,Michael Frost,bounced,2024-02-16 00:00:00,organic_search,
+00217f27-e009-4ee9-9cee-40b9b88e9284,melissajoseph@example.net,Michael Williams,pending,2023-07-18 00:00:00,email_campaign,technology|science|news
+b318de61-6e14-4bec-91ba-57aa34b0a9b5,vflowers@example.net,Mark Cuevas,bounced,2020-06-27 00:00:00,email_campaign,politics|business|entertainment|science|news
+165ac2e1-abb7-4069-b49a-6c497de14726,tylerjessica@example.org,Brandon Rodriguez,spam_complaint,2022-10-17 00:00:00,email_campaign,
+78481247-5e18-45d9-aacd-0d095f17f5b9,lesliebrown@example.com,Steven Burns,unsubscribed,2023-09-26 00:00:00,referral,science|entertainment|news|business|arts
+5a30985d-db00-4c73-aa69-a232e5d499fa,jeremiah36@example.com,Mitchell Walters,unsubscribed,2024-04-23 00:00:00,paid_ad,education|fashion|sports|news|finance
+71a25910-6dea-49aa-8650-505d65a8391b,shirleyhoover@example.org,Luis Smith,pending,2024-06-08 00:00:00,referral,news|marketing|sports
+52765d27-d3a1-44fa-9fde-0121a017ab9f,cstephens@example.com,John Roberts,unsubscribed,2023-09-29 00:00:00,social_media,health|finance|politics|science|marketing
+f3e7ed63-a987-4828-9f44-0253eeb09d93,joseph25@example.org,Kelsey Brown,spam_complaint,2021-06-05 00:00:00,paid_ad,business|finance|health
+66086217-5420-456f-aafe-bb1dcb3b4ce0,terri54@example.net,Deborah Douglas,bounced,2021-10-21 00:00:00,direct,health
+7e0b1205-00db-4830-96a8-3b55c9616b91,bonniemcmahon@example.net,Steven Russell,unsubscribed,2025-01-05 00:00:00,referral,
+c7dea0dc-b013-4343-9f7d-8c53a770d46c,heather89@example.net,Melissa Graham,active,2021-01-12 00:00:00,paid_ad,science|education|health|marketing
+cd8254fe-185c-48bb-bab4-e26c3d7cc049,hollowaylaurie@example.org,Casey Walker,spam_complaint,2022-07-25 00:00:00,organic_search,sports|marketing
+1a32dbce-7160-4fc3-a05a-cd0537e42caa,valerie56@example.com,Glenn Guzman,active,2021-10-29 00:00:00,social_media,education|marketing|news
+8df12242-ff58-4334-8545-c57bf110913b,lbradshaw@example.com,Ryan Coffey,bounced,2024-04-13 00:00:00,email_campaign,finance|education|arts|sports
+a263ef20-14be-46e7-9b63-f930619e8166,maryoconnell@example.com,Heather Brown,spam_complaint,2024-09-23 00:00:00,referral,entertainment|sports|education
+d15fec3a-055a-4b54-8bb5-ef858c2cfab2,ogolden@example.net,Craig Taylor,active,2024-05-19 00:00:00,email_campaign,marketing|education
+914001c1-156a-4af2-a927-48fb798ffd79,llucas@example.net,,spam_complaint,2022-06-14 00:00:00,direct,business|arts
+6f0b329e-9fe2-4bd1-8836-54efdaec16f5,parkjamie@example.com,Timothy Tucker,pending,2022-11-24 00:00:00,direct,arts
+cc9c6236-816f-4a1f-bae8-b67087be9a79,lisavelez@example.org,Mark Daugherty,spam_complaint,2022-01-25 00:00:00,referral,business|education
+5f3b5949-9df0-4f45-8d2f-f105cc73e896,averymarcus@example.com,Jeremy Holland,spam_complaint,2021-07-27 00:00:00,referral,
+fb6460ef-ee53-4343-870d-ac69bfd70966,qjordan@example.org,Michelle Martinez,pending,2022-02-07 00:00:00,referral,science|business|education|news|technology
+6ba98c95-b988-4eda-9b78-3d7ef16ccbc3,dboyd@example.net,Shelly Williams,active,2020-07-04 00:00:00,direct,finance|business
+e5141634-b656-4c6b-a968-707cf1880cbe,claudiafox@example.net,Terrence Henson PhD,unsubscribed,2023-06-29 00:00:00,paid_ad,entertainment
+01163e73-dbea-483e-a5b2-4d699b952dbe,jmccarthy@example.org,Lisa Scott,active,2021-04-19 00:00:00,organic_search,science|news|education|business|politics
+bafb3cd4-9fe0-4655-a556-054198f9670e,smallpatrick@example.org,Michael Peterson,bounced,2021-06-24 00:00:00,direct,
+ba9ef3d3-c876-4d6a-81d8-32270576a223,millerjoseph@example.com,Mariah Ross,pending,2024-04-04 00:00:00,referral,
+0732072f-4f63-40e4-9fad-d24adecd0b93,sierrasaunders@example.net,Randy Brown,bounced,2023-05-23 00:00:00,direct,arts|health
+5a0e2f79-bb7a-4ba7-842d-b947fe9c451e,bscott@example.com,Jason Kirk,unsubscribed,2020-05-04 00:00:00,social_media,fashion
+214ef0bf-8582-4bb9-acac-a524cfd8aa0e,samanthakirk@example.org,Jeffrey Solis,pending,2022-02-09 00:00:00,direct,science
+b4cac04c-e459-4336-aab2-f8c67fc1bce2,caleb24@example.net,Robert Green,pending,2020-03-19 00:00:00,paid_ad,politics|business
+e45f9986-1f6c-4665-91b1-fa0f7b360198,greg93@example.com,Kyle Snyder,unsubscribed,2021-12-12 00:00:00,organic_search,
+b8c60729-70c1-4a4f-86e6-83bfcab372e6,annabass@example.com,Gina Gray,unsubscribed,2021-07-14 00:00:00,social_media,technology|marketing|science|business
+bcf1e356-7374-48e1-bc92-29c189d98524,samanthagray@example.com,Tammy Scott,bounced,2021-09-13 00:00:00,paid_ad,fashion|news|marketing
+e8b283dd-828b-4499-bc96-aeb691cf4add,katherine67@example.org,Eric Martinez,active,2023-01-22 00:00:00,referral,
+7a4cf824-11db-478e-8f36-15a5b2345d3a,andrew44@example.org,Darlene Simmons,unsubscribed,2022-09-06 00:00:00,organic_search,finance|education|science|sports|entertainment
+807496fd-aaa3-4c8a-8fbb-85b88eb207e3,johnchapman@example.com,Brian Warren,spam_complaint,2024-01-27 00:00:00,direct,fashion|business|politics
+7b76cac7-6a4b-48e3-91f4-11209d0c8cff,zjohns@example.net,,unsubscribed,2023-11-18 00:00:00,organic_search,
+5ae01f62-99ff-49b8-a5c8-e50feca6d4c7,karijohnson@example.com,Michelle Martin,pending,2024-03-26 00:00:00,email_campaign,entertainment
+af4bd264-68dc-4cea-823a-8f808dd9fbec,ifox@example.org,Joshua Moore,unsubscribed,2020-04-21 00:00:00,paid_ad,education
+309465a9-1ef0-43ab-88f5-d293b4e8b28a,juliethomas@example.net,,active,2020-07-06 00:00:00,direct,education|politics|entertainment
+2f7ba909-22ab-49c7-8ba7-e2478c0d9d29,alexiswest@example.com,Katrina Martinez,unsubscribed,2021-10-13 00:00:00,paid_ad,fashion
+78308b14-72ef-4e04-b29d-501303706780,wayne88@example.net,William Cobb,bounced,2020-06-11 00:00:00,paid_ad,entertainment
+a739e9ee-0557-4287-af2f-49727866e081,jwallace@example.com,Breanna Berry,unsubscribed,2022-04-20 00:00:00,direct,marketing|fashion|politics|education|sports
+f4680894-77a8-4f5b-a8b1-ef19701974e0,thale@example.net,Donna Williams,active,2021-07-21 00:00:00,referral,technology|news|education|health
+c06b91f8-2092-4c0b-8837-890424a40745,morganlucas@example.com,Brooke Best,unsubscribed,2021-12-01 00:00:00,referral,education|health|news
+d3252523-55f9-4642-9da0-57f244b9631e,qhaley@example.net,Ashley Escobar,active,2024-09-12 00:00:00,direct,marketing|health|news|business
+e9d6ab84-178b-4881-9663-147ab6cb5d64,tiffanybrown@example.net,,bounced,2023-03-12 00:00:00,email_campaign,arts|fashion|sports|politics
+77e36e32-16f6-4ffe-ad24-9bdfeeadc3f2,pdaniels@example.net,Andrew Holmes,active,2020-12-30 00:00:00,referral,science
+550f9b71-c29b-4367-b62e-a8e59d93183a,kendra89@example.com,,bounced,2025-02-12 00:00:00,organic_search,
+29dc6df3-1e0a-4379-833b-13438fd960eb,ianthony@example.net,Kenneth Vaughn,spam_complaint,2022-12-30 00:00:00,email_campaign,
+e4b4986a-ce2f-4c65-9a74-acf09febe9f9,wattsscott@example.net,Brian Scott,pending,2025-02-13 00:00:00,organic_search,science|marketing|news
+069061db-65a6-4cba-b962-eb56910ad448,james32@example.com,Joseph Martin,bounced,2021-02-03 00:00:00,direct,politics|finance
+a040ac13-b3d3-448f-9836-a5d40c4d6fb8,ztaylor@example.org,James Williams,unsubscribed,2025-02-08 00:00:00,social_media,technology
+8c079efe-2d86-44da-acf2-26fec268c1d7,devinwall@example.net,Tricia Fields,pending,2024-01-26 00:00:00,organic_search,news
+886d7baf-cb14-43a0-8100-6e3bed295568,logananthony@example.com,Jennifer Sanchez,pending,2024-04-25 00:00:00,paid_ad,technology|science
+5874a313-6c82-4e7a-beb9-776af97eb06c,brandonwoods@example.org,Russell Bruce,unsubscribed,2021-09-28 00:00:00,organic_search,education
+eecb72a3-b65e-4a55-8d17-e153a737c1ff,fhansen@example.net,Sarah Walker,unsubscribed,2023-09-29 00:00:00,social_media,marketing|education|science|news
+e154045e-096e-46b6-8977-2814ad26ed98,kevin74@example.com,Matthew Gonzalez,unsubscribed,2022-07-16 00:00:00,email_campaign,politics
+f8d4ec60-62c4-436e-978c-e73ddb4b018f,ldunn@example.net,Raymond Pruitt,spam_complaint,2024-04-20 00:00:00,referral,
+352d5eab-6e24-4164-b24d-8646bf5ca44f,heather74@example.com,Robert Newman,spam_complaint,2022-02-19 00:00:00,referral,politics|science|finance
+830ed060-429d-4c8a-a6ac-fd56d90b0a99,vargasjody@example.com,Charles Ochoa,unsubscribed,2021-08-15 00:00:00,paid_ad,education|news|technology
+b04ae686-4e9f-4f97-a43d-97b9d5f267c9,anthonywest@example.org,,spam_complaint,2024-02-09 00:00:00,organic_search,arts|fashion
+2a2562fc-b96f-46d4-b793-340e590c325a,jessicasalazar@example.net,Shawn Carpenter,pending,2024-07-14 00:00:00,referral,
+e8a8d886-dffa-42f5-866a-18548e3bbafe,zedwards@example.com,William Smith,bounced,2025-01-16 00:00:00,paid_ad,science|politics|news
+33ed1172-23f5-4d19-815a-82a2dcf393b7,oliviashaw@example.net,Chelsea Henderson,spam_complaint,2023-07-13 00:00:00,social_media,marketing
+e72369a2-3d33-4359-ab3d-59e2ee9f96b6,elizabeth33@example.com,Russell Carpenter,bounced,2020-12-04 00:00:00,paid_ad,science|marketing|entertainment|politics|news
+af5d9ff8-b143-41a7-bbb9-9b06cd6f099b,sullivannicholas@example.net,Heather Clements,unsubscribed,2021-10-24 00:00:00,email_campaign,
+bac0076e-29b8-4b5c-9998-bde488013377,fowlermatthew@example.net,Luis Garner,bounced,2021-01-31 00:00:00,paid_ad,marketing|fashion|technology|politics
+a80215b9-dc37-4959-855e-8ed290f4608d,rickyrodriguez@example.net,Susan Smith,bounced,2025-02-23 00:00:00,referral,marketing|finance|education|sports
+3928886c-4952-4650-9609-0bc792fda384,slee@example.net,Donna Hamilton,spam_complaint,2023-04-14 00:00:00,referral,entertainment
+b95d010d-1df3-42a2-9c66-7e6eb128fa42,ejones@example.net,Leslie Lewis,bounced,2020-03-26 00:00:00,direct,science
+ac45e8f0-e927-4f0d-84fd-210269238553,racheldodson@example.org,Jennifer Green,spam_complaint,2024-04-23 00:00:00,paid_ad,marketing|sports|science
+0639b122-5d91-4fb9-9d30-d233206caede,umcfarland@example.net,Paul Parker,spam_complaint,2022-02-22 00:00:00,organic_search,fashion|news|health|science|marketing
+6d9c4fe2-f1bd-487f-9de2-8e0513505be4,mdavis@example.org,Brandon Reed,bounced,2020-12-23 00:00:00,social_media,technology|news|education
+4e08ce8c-ca3c-4563-a7ee-325c98e6eaa3,rhall@example.org,Victoria Warren,pending,2024-08-09 00:00:00,email_campaign,arts|business
+bd25b8f6-0e00-4c80-8c47-f81a3757c079,wpreston@example.org,Jason Wolf,active,2024-07-12 00:00:00,paid_ad,politics|health
+dc7d21a7-7613-42d0-915f-d3df8a863c9f,dorismorris@example.org,Kara Kim,active,2021-01-05 00:00:00,email_campaign,business
+b0fcec53-a6f4-468a-8a8c-bd1e56981957,smoss@example.net,Joshua Brown,active,2020-01-30 00:00:00,referral,entertainment|science|fashion|sports|politics
+650de24f-7a31-4b05-9f5d-b2a8817df0b6,samuelgibson@example.com,Matthew Martin,pending,2021-07-04 00:00:00,social_media,politics|health|marketing|business|technology
+bbb02a82-714f-48e0-bc0c-1cefd14faceb,lmeza@example.com,,bounced,2020-02-01 00:00:00,paid_ad,news
+805baf70-0409-4a7a-be71-7cd8b57075e4,matthewsmith@example.net,,unsubscribed,2022-01-31 00:00:00,social_media,
+851dae08-9b21-4cd9-ad9c-47d83ac5f0dc,guerrerohenry@example.net,William Tucker,spam_complaint,2021-01-15 00:00:00,social_media,arts|politics|health|business
+bc4c1707-1ab5-431b-9af1-9b59b9e5e306,david78@example.org,Christine Ware,unsubscribed,2020-01-01 00:00:00,social_media,health|fashion|technology|arts
+de2c6ed1-9cfc-450f-a21e-f89785de5ad8,adamsullivan@example.net,Janet Harris,spam_complaint,2025-02-22 00:00:00,paid_ad,arts|fashion
+a10c6740-472a-4ba2-a514-75fec4f89c73,mary80@example.com,Roberto Collins DDS,unsubscribed,2022-06-24 00:00:00,paid_ad,
+174e56d2-900a-4b55-bc9a-abfcf51a510c,kathleenwalker@example.net,Sabrina Williams,bounced,2023-10-15 00:00:00,paid_ad,marketing|news|technology|arts|fashion
+aa67cab0-119c-4650-963e-0b5d1a2c96dd,wpham@example.com,Gina Coleman,pending,2020-07-31 00:00:00,email_campaign,
+652d2dae-99f3-4501-bdf8-712a971d818e,mosborne@example.com,Stephanie Garcia,pending,2023-07-19 00:00:00,social_media,entertainment|sports|science
+1ad73b79-8994-468a-9947-d45d49542daa,jessicaalexander@example.com,Shari Turner,spam_complaint,2022-08-21 00:00:00,paid_ad,fashion
+e9cb7b8b-c1d7-4346-a7cd-5d860e24e1af,hmason@example.net,Larry Jenkins,unsubscribed,2023-08-10 00:00:00,email_campaign,
+88128aa5-7e34-4e7c-b381-cdaf0ea24e67,olsonanthony@example.org,Stephen Brown,active,2023-01-08 00:00:00,email_campaign,arts|politics|technology
+e4d73118-3eee-43a1-926d-e4d9d22f7d19,andersonmichael@example.org,Elizabeth Hall,active,2024-03-04 00:00:00,email_campaign,business|sports|entertainment
+cc67322c-3a9c-4c14-8f1c-4199130f188f,parrishjacqueline@example.com,Jacob Jackson,bounced,2021-06-25 00:00:00,organic_search,technology|marketing|news
+20a66d8a-3783-478e-a9d7-79b47af6476b,racheltorres@example.com,Emily Huynh,bounced,2020-04-12 00:00:00,organic_search,business|sports|entertainment|education|politics
+2a1348c7-80ba-41ad-8f0e-a54ee41986df,colleen85@example.net,Natalie Hurley,spam_complaint,2020-01-26 00:00:00,direct,sports|science|health|news
+417a9ca6-6b5c-4ada-9b46-ecdd932111c5,keithbrent@example.com,,pending,2022-07-08 00:00:00,referral,news
+de75377a-5706-4f52-a5fc-a8347b502d49,cameronyolanda@example.net,,bounced,2023-11-11 00:00:00,direct,entertainment|business|technology|fashion
+41bda46a-6f23-4084-896d-90d1618eab12,rebecca84@example.com,Ariana Hutchinson,spam_complaint,2021-09-04 00:00:00,paid_ad,
+24e33c11-dcbe-4411-b401-078f347945af,eric02@example.com,Carlos Koch,unsubscribed,2020-07-17 00:00:00,paid_ad,politics|health|arts|entertainment|finance
+e9976b1c-10c0-4c6b-a273-08392750acac,nancy18@example.org,Leslie Hill,unsubscribed,2024-06-25 00:00:00,organic_search,technology|business|sports|arts|health
+35e24f0e-8883-4ee0-9c89-6436d3c97a5c,michelle93@example.org,Laura Andrews,active,2021-08-18 00:00:00,social_media,sports|politics|education|finance|technology
+0be83d75-a613-490e-beec-c515e0246424,tiffanyrichards@example.net,Erik Davis,unsubscribed,2021-04-16 00:00:00,email_campaign,finance|business|education|arts|technology
+2769b9da-3c9a-40d3-a50e-6cc36709c1eb,richard20@example.org,Haley Wright,active,2024-12-29 00:00:00,direct,sports|marketing|news
+89de52a1-50c5-495b-a4ec-245e07bec7df,zrogers@example.net,Matthew Jackson,pending,2021-04-13 00:00:00,referral,education|politics|technology
+85928edf-92ea-435b-ab65-1b57d745bd95,ywade@example.org,William Gutierrez,active,2024-11-23 00:00:00,paid_ad,
+c67a295a-e847-477e-b916-8756ec065e52,aanderson@example.org,David Carter,unsubscribed,2024-04-24 00:00:00,paid_ad,news|marketing|fashion|health
+de8145ee-bf42-49fe-9536-048af0ead270,thompsontina@example.com,Adam Miller,bounced,2023-12-19 00:00:00,direct,technology|news|politics|marketing
+04a0b48a-e232-413a-a6d8-83a2788ff46f,uthompson@example.com,Stephen Hernandez,unsubscribed,2022-06-20 00:00:00,direct,entertainment|news|education|science|fashion
+3546732e-2b15-4563-a8cb-2668e030d5c3,wsmith@example.org,Micheal Watson,active,2021-08-20 00:00:00,paid_ad,business|health|marketing|politics|science
+c4daa09a-3e98-4c62-a97c-22a1a1d9ca67,lhughes@example.org,Sarah Klein,active,2022-02-15 00:00:00,paid_ad,finance|entertainment|science|politics
+f1dc83d6-eb9e-4794-a518-ffc933411592,ctate@example.net,Phillip Rodriguez,bounced,2021-02-13 00:00:00,email_campaign,health|news|finance
+6dd7c9eb-9248-48e1-b84c-8d91347debfb,nsnyder@example.net,,bounced,2022-10-07 00:00:00,social_media,politics
+5ac842cc-ff1b-446a-b015-f6f8fbfb3f2e,hillemily@example.org,Miguel Wheeler,active,2022-10-17 00:00:00,paid_ad,finance|arts|politics
+772d8f0e-b82b-4a11-b76f-9968af1725a4,danielrogers@example.net,Kara Gomez,spam_complaint,2024-06-25 00:00:00,paid_ad,technology
+f1cbb227-16bd-41ab-9e99-c67cfd78d161,qmendez@example.org,,spam_complaint,2020-03-06 00:00:00,social_media,science|sports|technology
+18cb0fb8-854f-42d3-8c58-8af37fe49571,tashagonzales@example.org,Jordan Meza,spam_complaint,2022-04-04 00:00:00,organic_search,business|arts|science
+8b4778b2-77f0-42b6-b450-43ede5689c3b,jeff72@example.net,Courtney Chan,unsubscribed,2022-05-18 00:00:00,paid_ad,finance|health|marketing|business
+26bdb8b5-b3f6-4595-878b-b716beeb326e,huangjohn@example.org,Charlotte Sullivan,unsubscribed,2021-08-02 00:00:00,email_campaign,business
+fe7b79e0-3936-42fe-8563-315376c2177a,richardwilson@example.org,Tiffany Lopez,active,2023-05-14 00:00:00,paid_ad,
+4f7b129a-3d7a-4d1b-984a-132d8ca6c1a3,randallcarrie@example.com,Jennifer Williams,unsubscribed,2023-02-03 00:00:00,paid_ad,arts|education|science
+acb16a7b-a955-45df-baca-f0c2e743726e,whitejennifer@example.org,Duane Hill,bounced,2024-03-05 00:00:00,referral,sports|news|arts|education
+bf0c6793-096a-4c88-9a0c-0d6552e99ae4,ppowell@example.org,Angela Harvey,unsubscribed,2020-03-25 00:00:00,paid_ad,health|technology|marketing|politics
+e44b5bd1-288a-4988-9341-3c3b4a0308b1,christopherramsey@example.org,Martin Campbell,spam_complaint,2023-10-17 00:00:00,social_media,health|science|fashion
+1bd77896-8ea1-4812-a9b4-21c49babe1c3,erica98@example.net,,bounced,2021-08-22 00:00:00,referral,
+df5d6f9d-aee0-4422-9a86-f39ac2c72379,shoffman@example.net,Edward Fry,pending,2020-12-20 00:00:00,direct,news|science|politics|marketing|health
+381e6912-2b90-435a-aa02-62e48c990964,sheilavasquez@example.net,,bounced,2020-03-25 00:00:00,paid_ad,science
+21993749-e115-4773-b584-3831765e9492,sarah15@example.net,Jennifer Mills,active,2022-09-17 00:00:00,direct,politics|health
+dcde6e1e-bc73-4ae1-ba40-935db2e4ab34,reyesapril@example.org,Jonathan Morris,spam_complaint,2020-05-11 00:00:00,paid_ad,science|politics|marketing
+51534a16-9517-4201-aa75-5ca35c565b86,ramospeter@example.org,Nathan Sanchez,active,2021-08-13 00:00:00,email_campaign,
+51bc4c7e-9d67-43a8-8e6e-abd481bf6bf8,ccooper@example.net,Douglas Higgins,unsubscribed,2021-05-02 00:00:00,paid_ad,education|fashion|business|news
+f5484725-b6d0-44f0-a7cd-f6291d9baf5d,jennifer90@example.com,Timothy Lee,active,2021-11-21 00:00:00,referral,
+09d475f9-67ca-4155-9888-dad40e697ac7,joshua73@example.org,Juan Stewart,pending,2021-02-03 00:00:00,email_campaign,marketing|sports|politics|fashion
+01dcb21c-5099-4076-8d45-26a349f5fddb,mikayla89@example.net,Juan Hunter,pending,2022-10-17 00:00:00,organic_search,science|education
+28a8e969-4a11-46c3-a1ec-afbdc6b10b64,kevindavis@example.com,Ryan Klein,unsubscribed,2024-06-24 00:00:00,social_media,technology|politics|finance|science|sports
+111e3e98-6e6b-4516-b8e6-dd4484f0186d,jamesmcdonald@example.net,,unsubscribed,2020-05-28 00:00:00,paid_ad,arts
+3a980254-11c7-4318-a826-10c743fd97ea,james49@example.net,Kathryn Peterson,active,2020-02-28 00:00:00,social_media,news|entertainment
+e2a80a89-f7f4-4268-a9f5-94f342d74ccb,richardsonmelissa@example.com,Danny Wall,spam_complaint,2021-06-16 00:00:00,organic_search,
+28387536-523e-4bd1-9b00-6ba54c6158ee,ylarson@example.com,,active,2022-10-04 00:00:00,organic_search,fashion|sports
+81596305-fe9b-4a7d-b72e-eeddd306b6fd,knguyen@example.com,Megan Malone,active,2020-01-27 00:00:00,social_media,news|education|marketing|sports
+9368f4db-c2f7-4a83-8e70-f19e090a0773,david35@example.net,Jeremy Salazar,spam_complaint,2025-01-14 00:00:00,paid_ad,marketing|entertainment|sports
+06548654-67e7-4e53-a062-126bab911f50,darrenball@example.com,Michael Fitzpatrick II,unsubscribed,2020-11-03 00:00:00,paid_ad,education|fashion|politics
+f625b28d-ca91-4536-a3bd-ec57f0777834,robert63@example.com,Joseph Miller,unsubscribed,2024-07-07 00:00:00,organic_search,finance|education|fashion|entertainment
+01ff4176-2748-470f-8b0a-14639bdb4be1,pattersontabitha@example.net,,bounced,2023-03-23 00:00:00,direct,news|fashion|arts|sports|marketing
+9aabaeb9-21dc-4221-8901-1a5f647c6df1,josereyes@example.com,,active,2022-06-06 00:00:00,paid_ad,
+83a5f5e5-23b2-4925-a66c-cc37d244cdf7,clarkwilliam@example.org,Jennifer Buchanan,active,2023-01-24 00:00:00,referral,education|technology
+38c0dc90-d25d-4f98-b137-025231d7e1fc,erikahouston@example.net,,bounced,2024-06-15 00:00:00,organic_search,
+53c9db5a-6099-4aad-bb1c-43cb97e0a9c2,natashaespinoza@example.org,Robert Andrews,spam_complaint,2025-01-04 00:00:00,organic_search,politics|news|sports|education
+831b7487-21ab-4c38-b373-332509717805,aguilarkelly@example.com,Eric Kaufman,active,2023-12-20 00:00:00,organic_search,business|fashion|science
+0be98bf8-26cd-4f9c-97e7-f7095a6f8381,theresachen@example.net,Jill Smith,active,2020-05-14 00:00:00,direct,fashion|sports
+0fd5c9ea-0dc3-4be3-9006-174eb29f99cf,amybrown@example.org,,active,2021-07-02 00:00:00,email_campaign,
+e50a10de-bf5b-4053-93f2-d42772410616,christopher59@example.net,Linda Rodgers,active,2023-08-21 00:00:00,email_campaign,entertainment|politics
+225bd6f4-0fa1-4851-90a0-4623b99819ab,josephwalker@example.com,Randall Lambert,bounced,2024-04-09 00:00:00,paid_ad,finance|marketing|sports
+66222515-fd7d-44a7-9702-b7f1bb4cf2af,sroach@example.org,,unsubscribed,2023-01-30 00:00:00,social_media,education
+69f88612-76b7-46f9-a3d2-79183049a141,laurastone@example.net,Tiffany Smith,unsubscribed,2023-01-11 00:00:00,paid_ad,science|technology|arts
+c963fd89-6044-4108-9fbd-10e58247b865,bridgetnunez@example.com,,spam_complaint,2021-03-11 00:00:00,social_media,sports|fashion|marketing|technology|arts
+b1cd8d06-88db-46c4-8cfb-5d78e192be7c,vasquezcolin@example.net,Melissa Collins,unsubscribed,2020-12-11 00:00:00,organic_search,
+ac42ae46-d64c-4181-9f51-8d02d04e7311,shepherdsean@example.org,Rhonda Adkins,pending,2023-12-08 00:00:00,referral,
+2612e17a-2569-459c-a978-8353f2dc12f6,wodom@example.net,Susan Owen,bounced,2020-02-03 00:00:00,social_media,marketing
+5f829de2-a75a-475b-b584-180e63be7762,sloanteresa@example.com,Alexandra Joseph,spam_complaint,2021-07-09 00:00:00,organic_search,fashion|marketing|technology
+271dd90c-fd33-47b0-960f-79ad65b3d003,xbarr@example.com,Austin Olsen,spam_complaint,2024-06-23 00:00:00,paid_ad,business|health|technology|politics|finance
+8e53512d-453b-43a1-9d36-79d75186ba5b,goodjesse@example.net,Nicole Rogers,active,2021-06-11 00:00:00,direct,arts|technology|health
+33931b9a-623d-4f47-ac30-aa54c203a0a3,rosalesamy@example.com,Joseph Schultz,pending,2021-01-21 00:00:00,email_campaign,entertainment|arts|sports|science
+36205f61-5c0e-4529-aafb-e134eab6b5db,chelseasmith@example.net,Philip Carey,bounced,2021-02-03 00:00:00,paid_ad,education|arts|sports|finance|technology
+c3abe8e1-5a48-484b-91d6-51aafd16719c,espinozaashlee@example.com,Charles Smith,unsubscribed,2020-04-10 00:00:00,paid_ad,marketing|science|health|news
+a2dcfe96-88eb-4a3c-8a0a-a5b0917e6f99,amyjohnson@example.org,Ryan Ayala,active,2021-06-03 00:00:00,direct,marketing|politics|health
+0d3c2707-26ca-403d-a9e1-adbf97d939e4,rebeccalucas@example.com,Richard Price,pending,2024-04-30 00:00:00,organic_search,
+559561e3-b330-4826-82f1-f1b0e3262791,tnicholson@example.org,Carrie Walsh,unsubscribed,2020-11-30 00:00:00,referral,arts
+863b45c6-b379-4c46-9427-6110bbdcddc4,johnsonmarilyn@example.org,Carolyn Leonard,unsubscribed,2024-08-14 00:00:00,paid_ad,finance|politics|fashion
+73ebdb4e-34dc-4925-bb16-000fe0c01b73,martinezsarah@example.net,Johnathan Moss,bounced,2020-05-21 00:00:00,direct,marketing
+834e3028-208b-48c8-a6c7-b1ab8c3e187f,wilsonangela@example.org,James Allen,active,2023-07-16 00:00:00,email_campaign,marketing|science|health|arts
+ae952426-a499-409c-8281-1489c6e80c15,cynthia59@example.org,Chloe Pearson,pending,2024-04-30 00:00:00,organic_search,science|entertainment
+ed736465-9534-4462-9874-49759ecde945,xaviergarcia@example.net,Jillian Scott,bounced,2023-11-19 00:00:00,social_media,fashion|arts|education|technology
+6a58b8c8-12e6-4d63-b12c-93d8026cd481,amanda05@example.org,Kara Clark,spam_complaint,2024-08-02 00:00:00,social_media,politics|finance|fashion|sports|technology
+e4f010c5-b761-415c-8ea1-bd39edf7bdff,bradfordalexandra@example.net,Brittany Vasquez,pending,2020-07-04 00:00:00,organic_search,
+15ddb946-eddb-47e6-9171-95747278ee66,jamesmartin@example.org,Elizabeth Forbes,pending,2022-11-11 00:00:00,social_media,sports|health
+1f9e8ee3-188a-4f34-8f4f-0457d7a5bc22,andrea44@example.org,,pending,2022-08-30 00:00:00,email_campaign,education|politics|technology|finance|science
+1d9a961d-1fb3-4648-af7a-eedb59e7a45e,brandonedwards@example.org,Tina Barber,spam_complaint,2024-01-18 00:00:00,paid_ad,education
+525f855e-a83d-4fad-bcf1-7408eefbbd14,ssullivan@example.net,Mariah Barrett,spam_complaint,2023-05-07 00:00:00,organic_search,sports
+4ba2a1ee-ba68-4590-8f67-0e6be593c481,thomaswhite@example.net,,pending,2020-06-26 00:00:00,referral,politics|business
+a0c2ace5-3bdb-4a42-93a1-22f0b7093989,james57@example.com,Jennifer Stuart,bounced,2024-08-18 00:00:00,email_campaign,news
+d25a1519-94c7-477c-8610-ec1d932fa42b,adkinsemily@example.com,,active,2024-01-11 00:00:00,email_campaign,technology|health
+f9dcff4b-f7f7-4d67-b836-c82330471b19,pamelarodriguez@example.net,,spam_complaint,2023-08-09 00:00:00,paid_ad,fashion|technology|education|entertainment
+9d9c78db-aba1-429c-9d20-0716c94dfc3b,collinscarlos@example.com,Robert Lynch,bounced,2020-04-08 00:00:00,organic_search,finance|entertainment|arts
+4a5e0304-98b4-4952-9ba9-3539b0be3662,tracy73@example.com,Lauren Diaz,active,2023-12-19 00:00:00,social_media,sports|politics|finance
+0b9e29af-d298-4e5f-8f5a-9a756c086d88,michaelroberts@example.org,Austin Johnston,pending,2022-05-24 00:00:00,email_campaign,science|business|finance|technology|health
+dbea5edf-9b05-4612-bbda-9fbdb2355006,nicholaswashington@example.org,Felicia Harris,spam_complaint,2020-05-27 00:00:00,email_campaign,arts|fashion|marketing|politics
+4d69bb3b-e8f4-4bb9-83bb-6e1c577b817f,charles59@example.com,,spam_complaint,2023-10-26 00:00:00,direct,
+2a0051c2-12c5-41a0-9f36-aabb87b13185,lvasquez@example.org,Stephen Ayers,unsubscribed,2020-10-28 00:00:00,email_campaign,business|politics|finance
+7923e7de-a12d-409f-b878-80840df22b10,barnettsharon@example.org,Sara Navarro DVM,spam_complaint,2023-07-03 00:00:00,direct,education|technology
+262fd59f-ed4e-4e67-a7cf-67bd33322805,caitlinjohnson@example.com,Michael Pope,unsubscribed,2023-02-28 00:00:00,social_media,finance
+065f36a0-bfdc-410c-a487-799892f82a69,judy12@example.org,Haley Perez,active,2025-01-23 00:00:00,organic_search,science|technology|arts|education
+9494d2ca-4051-4731-8439-a197719a3dcb,jose84@example.org,Destiny Chapman,bounced,2020-05-25 00:00:00,social_media,entertainment
+24f4a1a2-0e04-4596-b365-4c792dc6315f,jameseverett@example.net,Matthew Johnson,pending,2022-12-26 00:00:00,paid_ad,marketing|health|finance|sports|technology
+0486a176-15ae-48ea-ae74-288e13132ef5,scottmegan@example.org,Edward Hill,spam_complaint,2023-09-10 00:00:00,email_campaign,fashion|entertainment|health|business
+cf3ade03-0c9e-4fd1-ba97-0470cf56d5e5,greensara@example.org,Amy Simmons,active,2022-02-14 00:00:00,direct,education|technology|finance|arts|marketing
+5002e5fc-fd0b-44fa-be29-76b835ab960d,casey88@example.com,Emily Mcclain,unsubscribed,2020-09-05 00:00:00,referral,
+833ed7b5-7a42-40a2-8153-16e09ec73f59,hendersoneric@example.com,Wanda Michael,active,2020-10-04 00:00:00,direct,news|sports
+59f6f6d1-f3d2-4f35-9846-a3b78710a4f7,rodgersdorothy@example.org,Bailey Reed,spam_complaint,2022-05-03 00:00:00,organic_search,finance|fashion|education
+71693463-27d9-4d35-9cea-9ba9ffc472f7,tjacobson@example.com,Brittany Vaughan,bounced,2020-03-04 00:00:00,direct,fashion|sports|finance|marketing|arts
+6f4964e2-db03-47c1-bbcd-acc8cfbc17b0,jennifercastaneda@example.com,,pending,2022-02-04 00:00:00,social_media,
+34ea4089-e9be-45b1-9316-27f8902f9faf,smithmike@example.net,Jacob Davis,unsubscribed,2024-06-04 00:00:00,social_media,technology
+7047c726-606c-46e8-9f9b-59a9f1f3e290,john82@example.net,Faith Martin,pending,2022-08-09 00:00:00,paid_ad,entertainment
+c79210ee-adb5-4039-92bd-500473113b05,carrie10@example.net,Donna Ferguson,spam_complaint,2020-08-11 00:00:00,referral,finance
+cb0443e8-14bc-42d5-b0b8-1a659490741d,uward@example.com,Janet Mitchell,pending,2023-01-13 00:00:00,referral,technology|business
+96e376c1-9e6b-45eb-8f3e-2d0d90de5b36,jennifer86@example.com,,unsubscribed,2020-05-01 00:00:00,email_campaign,fashion|marketing|entertainment|technology|politics
+cb6cabc1-10ab-4712-95db-ff113f0f8c77,christinepeterson@example.org,Tammy Pope PhD,spam_complaint,2024-08-19 00:00:00,social_media,arts|technology|education|fashion|entertainment
+dccf9aa5-6e21-4d47-897f-65b91b1dbfa8,jennifergriffith@example.com,Nichole Robinson MD,unsubscribed,2021-01-01 00:00:00,direct,
+7ec5db87-a8b7-4dcd-a620-8ad1addf6f6e,sharonrhodes@example.net,,unsubscribed,2024-08-12 00:00:00,paid_ad,sports|health|education|politics|marketing
+39e86c6c-da9f-4884-bfb0-51ad149b8a7c,qbarnes@example.com,Mackenzie Mitchell,bounced,2024-01-17 00:00:00,paid_ad,health|science|politics|marketing
+58509a00-952e-46f8-9aa8-76bdbf412045,colekevin@example.org,Victoria Evans,spam_complaint,2022-02-14 00:00:00,organic_search,news|fashion
+3cc6d875-11b8-4799-ba04-9764fcfc7afc,trevorcordova@example.com,Mark Caldwell,spam_complaint,2024-01-20 00:00:00,social_media,sports|finance|business|fashion|technology
+fd1265e7-cc20-465c-8f46-ada75c997c70,hernandezjacob@example.org,Cynthia Logan,spam_complaint,2024-06-04 00:00:00,paid_ad,politics|finance|arts|business|entertainment
+b6d4f513-7e90-4823-b60c-8cb1736f9fa5,sean01@example.org,Mrs. Natalie Brown,bounced,2022-06-05 00:00:00,direct,technology|finance|entertainment
+1926cea6-8c3d-4fd8-9e8b-f1cc9d87cce5,hornstephanie@example.org,Dr. Ashley Johnston,spam_complaint,2020-05-11 00:00:00,social_media,health|education|arts
+5df82937-a38e-4736-9bfa-60ad99cb0850,barrettstephanie@example.com,Brian Allen,spam_complaint,2023-06-14 00:00:00,social_media,arts|science|health|business
+568688ce-5ddd-4d86-bc8c-80fe69184e6c,victor75@example.net,Jason Ward,active,2024-10-21 00:00:00,direct,entertainment|health|marketing|sports
+452ed5cc-b190-4b2e-b7c1-0245a2dd9258,hamiltonbradley@example.com,,active,2022-07-07 00:00:00,direct,entertainment|sports|fashion|health|science
+5ec19d57-0f6c-44fc-bafb-244e5ebbdd59,milleranthony@example.org,Thomas Atkins,active,2021-04-29 00:00:00,email_campaign,finance|entertainment|health|science
+e973e7f7-3ee8-4d53-816b-600a76388e56,mistyhendrix@example.net,Kevin Murphy,active,2023-08-23 00:00:00,paid_ad,politics
+a3bb391b-4ae3-47d7-9fc3-be0e31fa3757,fmoore@example.org,Emily Larson,bounced,2021-12-02 00:00:00,organic_search,
+b8871dee-beef-441c-b1d9-a185eeb2e47a,hillcameron@example.com,Edward Steele,spam_complaint,2021-04-18 00:00:00,email_campaign,finance|sports
+adad1daa-6158-4e4c-9106-ea9114a1322f,ppitts@example.net,Joshua Hansen,active,2023-12-29 00:00:00,social_media,health|news|finance
+e6e26344-523f-4f62-b366-198b3d125288,nathan34@example.com,Roy Perez,pending,2022-11-24 00:00:00,organic_search,arts|technology|entertainment
+6164506e-2066-46cf-89f2-4b55c4a527a7,waltonjustin@example.com,Jason Johnson,bounced,2022-03-06 00:00:00,social_media,
+5770fd89-7b05-4b40-8519-8ebb855cdddc,heidivalenzuela@example.com,Michael Yu,active,2022-01-27 00:00:00,paid_ad,finance|entertainment
+fac1844a-a396-439c-99ac-2671a9444a72,grangel@example.com,Robert Gonzalez,unsubscribed,2024-03-06 00:00:00,email_campaign,sports|education|finance|technology|arts
+730511ea-946d-42a2-8c96-a68fb9dad8a4,gball@example.net,Patrick Carrillo,bounced,2020-06-01 00:00:00,paid_ad,finance|arts
+9b32e1ae-c7d8-4477-8bb5-270225eaada3,fsmith@example.com,Jerry Porter,active,2023-12-03 00:00:00,social_media,science|education
+090f8dd9-a1ed-4060-b4d9-c91a95a7afa2,qjohnson@example.net,Maurice Roberts,active,2024-09-22 00:00:00,email_campaign,science|politics
+0e2b3898-b8ee-450f-973d-7d338253838c,lopezlouis@example.net,Brianna Nelson,pending,2020-02-24 00:00:00,social_media,sports|health|science|arts
+edbade99-e3e8-4f1d-81d3-b2693d994861,bwhite@example.org,Peter Pham,active,2022-10-01 00:00:00,social_media,news|sports|technology|science
+6051f305-63f5-4f11-9ecb-154429cd93bb,shelly42@example.org,Julia Howard,bounced,2023-06-04 00:00:00,organic_search,sports|finance|technology
+36ffa8d5-8495-45f4-bf9c-81e8bdd907ed,vmaldonado@example.com,Amanda Jackson,spam_complaint,2021-12-23 00:00:00,email_campaign,health|fashion|science
+b310fd4f-b707-4395-9453-26a18e45da24,destiny49@example.com,Morgan Miller,bounced,2023-11-14 00:00:00,direct,marketing|arts
+1b46a5e1-1de8-490c-bf6a-a44167126b2b,obarrett@example.org,Beverly Massey,unsubscribed,2021-08-07 00:00:00,direct,fashion|news|business|health
+44c4d573-1945-474c-b2cf-faed7f6ab61b,zmcdonald@example.org,,bounced,2024-08-20 00:00:00,referral,marketing
+52624799-6279-40fd-923a-a8459bd8f979,youngchristopher@example.com,,spam_complaint,2024-05-05 00:00:00,paid_ad,science|finance|sports|arts
+36600ff1-253a-4c25-931d-ee27fd86ef84,mary37@example.org,,pending,2024-11-13 00:00:00,organic_search,sports|politics
+f1b118f3-6113-4da6-b961-f8ad8d2ba70c,qthomas@example.net,Amber Wallace,spam_complaint,2024-05-29 00:00:00,social_media,education
+cb8bd590-4d0a-4d05-a7fc-1f77ce5f4ffe,kharper@example.org,Erik Kennedy,spam_complaint,2020-12-27 00:00:00,direct,business|sports|science|education
+afc2e2ae-77e3-4897-b324-1fe9d1fa6f97,joshuahumphrey@example.com,Justin Hall,bounced,2023-07-03 00:00:00,email_campaign,health|business|science|arts
+3fb84b00-d36a-4a73-a034-3fe846fbfdd5,janicebarnes@example.com,,pending,2024-10-26 00:00:00,paid_ad,
+43894fef-22d6-4f4a-accb-c3da4972eada,toddkevin@example.net,David Davis,pending,2021-02-25 00:00:00,email_campaign,fashion|finance|marketing|science
+9ee3b5e6-0900-4c53-bee3-cecda334bacd,popejohn@example.org,Carrie Barker,spam_complaint,2021-02-10 00:00:00,direct,arts|news|technology|marketing|entertainment
+c588c082-73c3-4070-831b-92d7e984410d,tanyaaguirre@example.net,,spam_complaint,2020-05-14 00:00:00,paid_ad,news|entertainment
+d7d3fb2b-8a7d-4000-a654-2ad766f653b8,nrussell@example.org,Brianna Martinez,unsubscribed,2021-02-01 00:00:00,organic_search,science
+14a29d5c-4c10-4821-8455-fd52b98deeaa,dennisevans@example.org,Shane Bennett,bounced,2020-12-01 00:00:00,paid_ad,
+90d3766d-6e15-47ef-bb43-c64dc79ef595,martinezchristopher@example.com,Monica Lewis,unsubscribed,2023-06-18 00:00:00,paid_ad,news|arts|technology
+ea9c4558-36f0-4ca9-9d43-9b35097bfa6b,nmiller@example.com,Arthur Anderson,active,2023-10-09 00:00:00,social_media,marketing|sports|technology|finance
+6a1cd018-1311-42be-b960-c01456785877,sjohnson@example.com,Justin Mclaughlin,spam_complaint,2023-09-05 00:00:00,referral,entertainment|business|sports
+0b14802b-c317-416d-82e6-51c7f99aefe4,kaitlyn94@example.com,Karen Chapman,unsubscribed,2022-05-18 00:00:00,organic_search,business|marketing|fashion|arts
+b85ee2bf-5fd4-490c-964b-df91b2be8042,kwalker@example.com,Kimberly Hebert,pending,2022-06-10 00:00:00,paid_ad,politics|finance|education
+f843653d-736d-4439-a354-91c55be356f1,phillipsnicole@example.com,Rachel Neal,active,2025-01-26 00:00:00,referral,education
+6b965d44-ae2c-4bf1-b211-89452b31a2a7,mistyarcher@example.net,Jeremy Li,active,2023-07-16 00:00:00,paid_ad,fashion
+a790ff5e-6f46-474b-b951-9582e49ef97f,smitheric@example.net,,bounced,2020-05-25 00:00:00,organic_search,sports|education
+c5d27f2c-9d7d-4a39-94cf-52711da6cde2,brandon57@example.org,Jessica Fox PhD,unsubscribed,2023-01-21 00:00:00,direct,marketing
+85024bf9-9be5-49dd-aac3-19927157219d,wilkersondawn@example.org,Lauren Stark MD,pending,2024-09-16 00:00:00,referral,technology
+2ee7dff2-69ed-40c2-9a4d-5aebd79c4313,gwilliams@example.org,Matthew Christian,active,2022-04-14 00:00:00,direct,technology|news|sports|fashion
+a1e4c243-0459-4d53-be0c-ac412c3faac5,melissamoreno@example.net,Kelsey Ward,spam_complaint,2020-11-28 00:00:00,email_campaign,finance|sports|business|technology|education
+4cb5eda6-1008-4a9b-9aaf-bae4d3abf926,kimberly07@example.net,Michael Ross,active,2024-07-06 00:00:00,email_campaign,entertainment|marketing|finance|news|business
+7e4e29f2-7255-4e83-8b95-a7a018ad1771,rharris@example.org,Suzanne Abbott,unsubscribed,2020-01-27 00:00:00,email_campaign,health|sports|fashion|news|business
+faf46ab6-51be-4d0f-b693-89fd31377beb,markwilkerson@example.org,Ricardo Brown,bounced,2020-12-15 00:00:00,social_media,sports
+77bd72d6-3b7d-4e0b-bf28-9fbcae11da2a,brownstacy@example.org,Robert Krueger,bounced,2023-10-12 00:00:00,paid_ad,politics|technology
+e375bde5-d7fd-42a6-af14-ec75e1f7b92d,washingtonryan@example.com,Daniel May,active,2021-02-15 00:00:00,email_campaign,fashion|arts
+73cbb5f1-2fb5-482a-a5ce-70233ca897f0,johnstonchristopher@example.com,Michael Reynolds,pending,2020-12-02 00:00:00,social_media,health
+f8e78a31-f782-42e1-9bcf-8bd498a8fbd1,cameron21@example.org,John Allen DDS,active,2020-03-16 00:00:00,social_media,education
+d1cbf7a7-6eb5-4ff9-9237-33b6784e2326,mitchellwilliam@example.org,Maria Wright,unsubscribed,2021-07-07 00:00:00,paid_ad,
+ddf51bb3-575e-49e8-9bb4-72e956456e78,zrichmond@example.org,Jennifer Adams,bounced,2023-01-06 00:00:00,organic_search,sports
+5aa0cbb7-f48b-4fd5-bfd9-14e765c739e0,kennethwatts@example.com,Jessica Morgan,spam_complaint,2020-09-26 00:00:00,email_campaign,sports|health|news
+c1539133-ab1d-4af7-8b5f-bb3539cf3b74,grimesstephanie@example.net,Michael Goodman,spam_complaint,2022-02-11 00:00:00,social_media,marketing
+899d157a-31af-445e-9477-471d6aef2928,craigpaul@example.com,Zachary Patterson,bounced,2021-12-10 00:00:00,email_campaign,health|arts
+f65586bd-d648-45a4-b1a7-f1dbd8a7de9d,jesse74@example.org,Katherine Thomas,bounced,2023-04-05 00:00:00,social_media,entertainment|health
+edd19bcd-5a3d-4a71-a326-eb3205e1baf3,tiffany20@example.org,Lisa Zuniga,pending,2024-11-27 00:00:00,email_campaign,
+6d7016b8-9073-4ddb-acd8-eaedb728a042,stephennelson@example.com,Shawn Brown,pending,2024-05-02 00:00:00,direct,business
+3423b6f6-a57f-4b0b-89c1-c1bfa7f8222a,osweeney@example.com,Beth Coleman,bounced,2020-04-30 00:00:00,social_media,science|entertainment|business|education
+4c05124c-8473-47e7-9b89-540d690fcc17,williamskatherine@example.org,Allison Arnold,unsubscribed,2022-12-28 00:00:00,email_campaign,politics|fashion
+1c8b5d3c-e795-458b-a158-c2f88f46166d,wwilliams@example.com,Jacqueline Kennedy,active,2024-07-26 00:00:00,email_campaign,
+22dbb86d-1d68-4875-b18d-38c2d7f136f4,joshuawest@example.net,Brandon Austin,active,2020-02-19 00:00:00,referral,
+69c07b64-c979-4d20-bc69-0bda53adc2a6,gregory89@example.com,Taylor Bartlett,pending,2023-08-03 00:00:00,organic_search,news
+1fec6e02-257b-49c5-8b59-54fc5a9c2c6c,virwin@example.org,Daniel Reese,bounced,2024-06-04 00:00:00,organic_search,
+209b951d-a0bb-47b2-ac89-8e77afefbc9a,reedolivia@example.org,Nicholas Mayer,active,2023-11-09 00:00:00,direct,marketing|sports|entertainment|health|news
+65eb0048-aeda-4dd1-944e-f4069902681a,nicolemiller@example.org,Darren Diaz,bounced,2022-11-13 00:00:00,direct,finance
+6c0d0da9-fd3e-4a3f-975c-2670b43b9b26,gary70@example.net,Kathleen Rhodes,spam_complaint,2024-05-11 00:00:00,referral,education|technology|news|marketing
+fdd25d43-0183-4e81-9950-457593bac3ef,robbinsbrian@example.com,Rebecca Clark,pending,2023-10-16 00:00:00,paid_ad,finance|politics|technology|science
+062f973b-ebfa-4cd7-8aff-0482f5f28337,asimpson@example.com,Andrew Patterson,bounced,2020-04-09 00:00:00,organic_search,politics|news|business|science|arts
+3d44fa59-e0ed-4c83-80ac-01c1c5917a27,fmorales@example.com,Danielle Herman,pending,2020-03-30 00:00:00,email_campaign,education|arts
+ee94d127-4dda-400c-b2d6-960d354672aa,calderonkeith@example.net,Amy Barnes,unsubscribed,2022-09-06 00:00:00,paid_ad,science
+440e7f09-63c1-4c97-9ba0-276990ada136,tyler97@example.com,Amy Moore,unsubscribed,2021-09-16 00:00:00,email_campaign,technology|health|business|finance
+7538a961-7721-434b-a298-d484fbb9cdf0,ycarpenter@example.org,,bounced,2023-01-31 00:00:00,social_media,politics|news|marketing|sports|science
+784173d1-45b8-4c2e-bd9b-3f45f9ceeb2a,ysmith@example.org,Whitney Castillo,unsubscribed,2021-03-05 00:00:00,organic_search,entertainment|politics|science|education
+2a6e23be-9a0a-4305-86d3-b1625b72a965,stonedavid@example.net,Juan Andersen,pending,2020-04-16 00:00:00,direct,technology|finance
+163d2e26-0a08-47a7-84f8-598db59dd854,jenniferlewis@example.org,John Garcia,spam_complaint,2023-04-29 00:00:00,social_media,education|health|science|news|marketing
+7bfc388a-71d6-4e2d-a896-127aa557b5a8,johnbarrett@example.org,Teresa Harrison,spam_complaint,2023-06-20 00:00:00,direct,fashion|sports
+2b4c52ce-ba08-4972-9907-9aa0242e1f63,fordsarah@example.com,Raymond Moreno,unsubscribed,2023-07-02 00:00:00,organic_search,technology|marketing|science|education
+3724dd23-b668-4f9a-83f1-2d62e8d4319c,freemanvalerie@example.com,Leah Patrick,active,2022-10-27 00:00:00,referral,news
+c75ada29-5c98-45fa-876a-eee50c0fd403,douglasmcdonald@example.org,Dawn Barton,spam_complaint,2024-07-30 00:00:00,social_media,politics|finance
+78fdc541-007e-4348-8d18-9493136d3bb3,vhall@example.org,Colleen Williams,active,2021-06-11 00:00:00,social_media,fashion|health|finance|politics
+3c8c6679-5cd8-4c76-a0d1-8dc6eeaa0f04,acostacindy@example.net,Brianna Wolfe,unsubscribed,2022-05-08 00:00:00,direct,technology|science|education
+36bad9f4-e83d-478c-94b9-a78e1867252f,curtiseric@example.net,Debbie Buchanan,active,2021-05-04 00:00:00,email_campaign,health|sports|politics
+a4e2751c-475d-413b-8aa8-aa650c982abb,samanthajohnson@example.com,,spam_complaint,2024-05-05 00:00:00,paid_ad,
+7f962baa-9046-4fe8-ac7b-bfd33d337b47,porterdeborah@example.com,Vincent Butler,active,2021-05-03 00:00:00,organic_search,technology|finance|sports
+fabec5e5-b43d-4109-91ea-3e639151c802,mcdowellbernard@example.org,Donald Gonzalez,active,2021-04-24 00:00:00,direct,news|health|sports
+47722bd9-56de-43af-b244-decaf8080912,robert09@example.net,Nathan Holmes,spam_complaint,2020-02-20 00:00:00,direct,fashion|politics|arts|technology
+66bfdff4-bdb5-4982-9804-ba516921a175,michelle05@example.org,Christopher Barnes,pending,2022-12-13 00:00:00,social_media,arts
+c8fe4085-40ca-4fe0-8f97-e862c9fc79af,ulyons@example.net,Sabrina Shaw,pending,2020-01-23 00:00:00,email_campaign,politics
+d8a05708-eeec-47f0-ae9c-a258d79b6904,jeremyherrera@example.org,,spam_complaint,2024-09-30 00:00:00,social_media,entertainment|fashion
+0c8ca74f-cf2c-4bde-b716-e0fc3f41f879,jrivera@example.com,Eric Santana,spam_complaint,2023-08-25 00:00:00,referral,
+f64f376b-e62b-436d-b21a-3ee548c376dd,claytonbrian@example.com,Seth Logan,bounced,2023-06-27 00:00:00,direct,health|arts|technology
+68e4cdea-3225-494c-9baa-a5de09548c91,cdean@example.net,Emily Murphy,pending,2021-07-10 00:00:00,paid_ad,politics|education|technology
+d87995a8-5f48-4599-ac6c-41b7692a22ba,pamela29@example.com,Jonathan Simmons,bounced,2022-07-19 00:00:00,direct,entertainment|health|news|politics
+6d1bcc02-5d4a-4f9f-b40c-3cdd41f68854,lisa51@example.com,,active,2023-01-27 00:00:00,paid_ad,finance
+951fe395-00e7-45ea-a46b-ec8a08717d6d,brandoncarrillo@example.net,Gerald Walker,pending,2024-06-21 00:00:00,organic_search,finance
+42efd9e2-1642-47dd-a9cb-b69d95da53ff,paul24@example.com,Jonathan Jones,spam_complaint,2020-07-14 00:00:00,organic_search,
+f198609e-2c6f-41a4-a5c5-858c9cbb5cf2,chloeknapp@example.net,Jeffrey Cannon,spam_complaint,2023-03-18 00:00:00,referral,business|arts|entertainment
+689cfb91-db04-4539-a162-e9d44e29b4bf,tammy91@example.org,Matthew Myers,pending,2023-12-24 00:00:00,referral,fashion|sports|politics|health|finance
+135658de-b9fb-43d6-ad9e-25c78c2ac280,jonesjacqueline@example.com,Kirk Johnson,bounced,2021-04-03 00:00:00,social_media,business
+7bf3f422-14e1-401a-b615-0b1215fbad86,diana58@example.net,,unsubscribed,2022-12-25 00:00:00,referral,technology|fashion|sports
+7f96bc82-f70d-4707-bdae-19055979b251,vevans@example.org,Matthew Williamson,unsubscribed,2025-01-02 00:00:00,organic_search,science|education
+d21b2861-4008-4447-9ae1-e90e6b1c249d,carrie79@example.net,Paul Diaz,bounced,2022-09-04 00:00:00,referral,science|marketing|business|arts|technology
+29bf1c96-d42e-4e5f-8c1c-8738ad8b94a3,smyers@example.com,Kevin Davis,active,2020-02-13 00:00:00,organic_search,fashion|arts|marketing|education|science
+8c987e3e-2025-4501-8220-71dbe7a0ef83,guerrashelley@example.net,Paul Barr,active,2022-04-05 00:00:00,paid_ad,
+b574c172-f3bc-430b-a41a-57c572ab0225,kurt62@example.org,Nathan Vazquez,pending,2023-03-24 00:00:00,email_campaign,entertainment
+1026cae6-ab00-4fd1-b4a7-1cef116cef79,taylorhicks@example.org,Blake Long,bounced,2020-06-14 00:00:00,email_campaign,news|sports|technology|politics
+f2beb1c1-a198-44f6-9b73-fa884024f183,serranojuan@example.net,Charles Allen,bounced,2023-09-15 00:00:00,referral,sports|finance
+acc7b50b-1730-4978-b3eb-847c87416a46,edwardschristopher@example.org,Brianna Macias,spam_complaint,2021-06-09 00:00:00,email_campaign,technology|fashion
+92eb2e93-ddde-4100-9ade-d6d36cbceaaa,jefferyking@example.com,,bounced,2021-10-01 00:00:00,social_media,marketing|fashion|sports|business|technology
+1d783617-48a9-4fa2-8fa2-38e78e2f1195,taylorrachel@example.net,Anthony Anderson,bounced,2022-08-29 00:00:00,organic_search,fashion|news|finance
+f53088a3-f773-4346-8a1b-9466edf29db6,newtonkevin@example.net,Bryan Jensen,unsubscribed,2023-05-12 00:00:00,social_media,entertainment
+cd60b5ea-bcef-4df0-ac66-78feda1198a2,dawn87@example.net,Shannon Esparza,pending,2023-05-15 00:00:00,organic_search,arts
+62d68406-250b-456c-b6c4-39dc22b732e3,christopher21@example.net,Michael Lopez,spam_complaint,2023-08-15 00:00:00,direct,technology|finance|science|education
+3f6fc565-0e2e-48eb-ba01-fb7ca31d4c08,greeneashley@example.com,David Estrada,bounced,2023-08-25 00:00:00,direct,sports|arts|finance
+97718a46-2791-4f3c-a834-b2f2261ddbd8,timothyrandolph@example.com,Tiffany Buck,bounced,2020-11-18 00:00:00,paid_ad,news
+4ef29b7e-0b57-4110-b438-064a52e1b66e,burkekelly@example.net,Jason Cunningham,active,2022-02-17 00:00:00,paid_ad,entertainment|marketing|arts|sports
+6078e51a-194c-4600-8a2b-7905c9fff68e,thomasjustin@example.com,Michelle Cardenas,unsubscribed,2020-04-08 00:00:00,referral,business|science|politics|health
+04b4af04-fa45-4597-a3e3-a64ec6573fa5,ayerssheena@example.net,Cameron Carpenter,active,2021-04-23 00:00:00,email_campaign,
+8dd24635-9ad0-49a0-b36a-928164e83eb5,tholt@example.com,,unsubscribed,2023-11-25 00:00:00,paid_ad,finance
+0d08a7e9-5ece-4319-8801-98af4dc9d7f9,ravenjensen@example.net,Thomas Parker,active,2021-08-01 00:00:00,social_media,sports|health|politics|science|finance
+0df1828b-2300-475c-805f-216a34be937f,garnertaylor@example.net,,spam_complaint,2023-07-25 00:00:00,organic_search,education|arts|fashion|entertainment|news
+9cefa53c-b982-41a3-ba9f-d6efa53cf486,shortmary@example.org,Raven Haas,pending,2024-07-24 00:00:00,organic_search,fashion|science|news|marketing
+f687b6c2-f1c0-4501-97a0-d85197f8d27e,james67@example.com,,active,2024-08-06 00:00:00,organic_search,sports
+c6fd6a36-ccaa-43df-9344-7430c2c4d890,michaelbrooks@example.net,Eric Bennett,pending,2024-04-11 00:00:00,social_media,
+46669406-403a-49fe-a7e4-23cd50d1905a,jenniferallen@example.com,Larry Sullivan,bounced,2021-12-30 00:00:00,social_media,politics|science|finance|sports|entertainment
+bff2c9ea-8484-4656-9516-03b35cccf690,stewartleslie@example.net,William Smith,bounced,2020-10-01 00:00:00,paid_ad,entertainment|fashion|marketing
+dae6745b-b3b5-4185-b731-5073ba0986b7,carolyn92@example.org,Jacob Pena,active,2023-09-17 00:00:00,direct,
+f63ff0ad-61a9-4aa7-93c6-c08f5bc56b7e,matthew65@example.com,Hannah White,pending,2021-07-31 00:00:00,paid_ad,finance
+79fcca14-930a-48aa-9ad2-0aba880f7d2e,sarah47@example.net,,bounced,2020-04-18 00:00:00,social_media,sports|politics|business
+81062cc3-e7b3-48f7-8cd2-701b1d346376,meghan25@example.com,David Howard DVM,pending,2021-09-07 00:00:00,paid_ad,marketing|business
+03907816-347e-4579-8f3e-faa2047d5400,emilygomez@example.com,,unsubscribed,2021-02-26 00:00:00,organic_search,business|fashion|politics|arts
+e4b1d81f-20c2-4af4-8cd0-a950e0fa074d,daviscory@example.net,Brian Brown,spam_complaint,2021-01-20 00:00:00,direct,health|marketing|education
+85bce3a4-6632-4236-b5b0-5b03198e1bd2,josephtamara@example.net,Cheyenne Morton,spam_complaint,2022-12-15 00:00:00,organic_search,politics
+4039378e-b715-4b67-ba5d-f32ce0e7d3c3,cgraham@example.net,Timothy Sanchez,bounced,2025-02-02 00:00:00,organic_search,
+f12491b3-4e40-4409-8b6f-608d3bb9d621,diane51@example.net,Norma Wright,unsubscribed,2024-03-30 00:00:00,paid_ad,science|news|business
+bcf12831-8aff-4051-9cb4-40dbeb3c2f03,michellemorgan@example.net,Pamela Ochoa,bounced,2023-07-01 00:00:00,email_campaign,business|arts
+88dbb8ee-9208-4ac3-94af-dae117a31e9a,schaeferalicia@example.org,Rachel Coleman,spam_complaint,2022-02-18 00:00:00,social_media,sports|science|business
+a5d5e2a8-2818-4248-9cb9-db4d68c56e91,wjohnson@example.org,Laura Cowan,bounced,2022-11-26 00:00:00,referral,arts|business|health
+80c0b3f6-95d9-41f1-87d4-6fd71f37e50f,smithdenise@example.net,Jennifer Lowe,spam_complaint,2020-03-21 00:00:00,social_media,technology|fashion
+7d4fb0d0-8101-4765-9615-7c73787c9def,wongtimothy@example.net,William Christian,unsubscribed,2024-08-13 00:00:00,direct,news|fashion|health|entertainment
+1f1c088c-43a2-4253-a317-80da0f00a359,mccluremark@example.net,Crystal Dodson,active,2022-02-27 00:00:00,organic_search,news
+24513dc2-a215-4ee3-a6ae-57e254d05fc2,brendacobb@example.org,,active,2020-01-30 00:00:00,referral,entertainment|education|politics|finance|arts
+ad1557fc-f30a-4d4e-8eaa-8a79469277af,mooreann@example.net,Mary Miller,pending,2020-06-25 00:00:00,email_campaign,
+7e96b30e-21ba-4235-a7b9-db64eb84f057,mcculloughthomas@example.net,Ricky Moody,active,2021-04-06 00:00:00,referral,business|technology|sports
+4987ba9b-ea90-41df-860d-b88637b44a6d,leonard98@example.org,Mark Jackson,pending,2021-01-05 00:00:00,direct,science|news|health|business
+8ccc2a55-7769-4444-a4bb-75e9235bb21d,ndickson@example.net,Mrs. Donna Khan,pending,2024-05-08 00:00:00,organic_search,entertainment|education|technology
+019506c8-990f-402f-b0ff-1e3e7dc320b9,amacias@example.net,,unsubscribed,2024-05-11 00:00:00,paid_ad,health|finance
+e649b60e-61eb-4606-8719-aeb738816515,paul00@example.org,Patricia Scott,spam_complaint,2023-04-30 00:00:00,email_campaign,business|arts|sports|health|fashion
+af469702-a799-4d3b-8532-e22bd4d640fb,williamfritz@example.net,John Adams,bounced,2023-09-04 00:00:00,social_media,education|politics
+70782c95-ffd0-429e-af21-ec00211062e8,tonya88@example.org,Cynthia Perry,unsubscribed,2024-06-21 00:00:00,referral,politics|news|fashion|entertainment
+54d27759-f747-4654-a193-f0fe3e5264d3,nicolemills@example.com,Kimberly Bennett,pending,2022-11-24 00:00:00,organic_search,politics|entertainment
+c4f8ab84-8951-4690-a3d3-8be43ddf0f77,patrickibarra@example.net,Christine Riley,bounced,2021-05-16 00:00:00,organic_search,marketing|health|education
+268c3fe0-9f23-4355-bfb7-ab387c6179f4,louis60@example.net,Christine Porter,pending,2022-12-28 00:00:00,direct,fashion
+b3b1a102-1f99-41c9-bd56-7ea186255aa3,mitchelljennifer@example.com,Meghan Baker,spam_complaint,2023-01-28 00:00:00,social_media,health|entertainment|sports|finance|politics
+bd207451-3da4-4c8a-9c16-04672c6465cb,edwardgordon@example.org,Joshua Rogers,pending,2024-02-17 00:00:00,email_campaign,finance|science
+aa8c3b09-a225-4992-9b2b-42d15fe0fb2a,debra43@example.org,Maria Gates,active,2023-02-22 00:00:00,organic_search,business
+fc3da23e-9b1f-4d05-a062-a3ba4569515a,amygarcia@example.com,Anthony Harris,bounced,2024-05-05 00:00:00,referral,marketing|health|fashion
+a3b1ae62-494a-45ca-8be7-e0ed760c9e0b,amandasaunders@example.net,Adam Cooper,unsubscribed,2021-10-28 00:00:00,paid_ad,business|education
+2e4c09cc-eea4-451e-ab0d-c8a4882e0370,briangardner@example.org,,spam_complaint,2020-05-16 00:00:00,referral,arts|sports
+2d906072-d5cb-4ca8-8ac6-bc6771312e7d,ibradley@example.org,Victoria Murphy,pending,2024-10-27 00:00:00,referral,marketing|business
+058111da-ecda-4057-a1c7-8e4f0545ed00,jane92@example.com,Susan Reed,active,2024-09-20 00:00:00,paid_ad,technology|entertainment|finance|fashion
+6bd0b459-2506-466c-97de-54fa82614d3f,pmartinez@example.com,Pedro Davis,active,2021-11-24 00:00:00,paid_ad,
+734a30b8-6d29-4284-9e66-fca391686d29,qevans@example.com,Mrs. Laura Santos,pending,2024-06-03 00:00:00,social_media,
+49e7f882-f5eb-4673-9d69-99b5cac746f9,agordon@example.com,Russell Reyes,unsubscribed,2020-12-17 00:00:00,organic_search,education|science|politics
+fe970ec9-4798-487e-a93c-4481254eec97,johnsonjames@example.net,Lauren Wright,spam_complaint,2020-05-29 00:00:00,email_campaign,entertainment|science|marketing|technology
+ef248071-acad-4ace-8d52-57a9b8484122,malvarez@example.com,,unsubscribed,2021-08-28 00:00:00,direct,
+a73fee13-449f-45cb-8b21-6267303dd262,seanlopez@example.org,Katrina Hayes,pending,2022-05-08 00:00:00,referral,sports|business|marketing|science|education
+c3878847-48cc-46d0-af2d-82a95c4c16b5,lgonzales@example.net,Natasha Stevens,spam_complaint,2023-01-27 00:00:00,organic_search,business|technology|arts|news|fashion
+4dc7a89a-d27b-486d-897b-b24b688abbec,tyler95@example.com,Mary Thompson,active,2020-01-22 00:00:00,email_campaign,
+4872568b-20b3-42d1-bd59-b8660d945728,sarah61@example.net,Natasha Andersen,active,2024-09-12 00:00:00,social_media,news
+9e775823-e743-48ad-a65b-a3408dac14fb,eric17@example.net,Mark Hall,active,2021-12-30 00:00:00,email_campaign,finance|politics|technology|business|arts
+fe661fcf-edca-4d68-8fad-14b4f0283e66,pflores@example.net,Lisa Hicks,bounced,2022-07-02 00:00:00,paid_ad,politics
+5f2f5dcb-3fc9-4dda-98b6-df3c4925d1bc,marshallbrian@example.net,Gary Rogers,active,2021-03-19 00:00:00,organic_search,finance|marketing|arts|health
+97a7e58b-93ee-42dc-8ee4-c577ff6fb11a,davissandra@example.net,Raymond Richardson,unsubscribed,2023-09-25 00:00:00,paid_ad,health|business
+baba913a-7f24-4ce5-bfd8-688bfe140784,theresavalenzuela@example.com,Christy Armstrong,pending,2024-08-06 00:00:00,email_campaign,finance|marketing|entertainment|arts
+29030730-1e5a-4f0b-94f7-245b513520e4,englishrichard@example.com,Robert Brown,pending,2024-08-18 00:00:00,paid_ad,politics|news
+fb7196f8-78bb-4e69-be97-9919f99a1d56,rkim@example.com,Kelly Doyle,bounced,2024-01-27 00:00:00,paid_ad,health
+4731d9e6-b8cb-466d-b3e7-75750796ed89,zkelly@example.net,Jessica Campbell PhD,unsubscribed,2025-01-05 00:00:00,email_campaign,health|education
+59b67228-207e-4e08-adf6-f4470a82d4af,jesse16@example.org,,spam_complaint,2022-11-21 00:00:00,organic_search,fashion
+9bda3e67-1a02-4f3f-840e-a979564a902d,regina14@example.org,Melanie Carter,spam_complaint,2023-02-10 00:00:00,paid_ad,education
+2dc9f76a-4a8b-490c-a0c9-874940bb8d81,gregorygloria@example.com,Michael Velasquez,unsubscribed,2023-01-02 00:00:00,referral,news
+163927a4-7155-4b7a-a093-e6aa2cd310e0,timothy83@example.net,Richard Jimenez,spam_complaint,2023-03-09 00:00:00,organic_search,health
+5b42b1c6-a383-464d-8d09-64bf629bba76,brewermegan@example.com,Jessica Freeman,spam_complaint,2022-08-23 00:00:00,organic_search,news|sports
+2a384ce3-4916-44f7-97ce-f6cbc56a3e48,yduarte@example.net,,active,2023-04-07 00:00:00,organic_search,marketing
+c31993a6-5d82-4e91-b816-f2def251edce,ronald38@example.net,Tamara Mendoza,pending,2020-01-13 00:00:00,email_campaign,sports|marketing|science|arts
+251da162-b808-4fcd-b55b-c94afc330015,sarahbrooks@example.org,Jill Vasquez,unsubscribed,2021-09-24 00:00:00,referral,marketing|technology|politics|fashion|news
+8ac621c2-89c9-40a8-ab65-ee04fe6ad2b1,tyrone20@example.com,Derek Gonzalez,bounced,2022-09-06 00:00:00,email_campaign,politics|technology
+444272e0-6dea-4e52-bcd1-7bf3843fd883,craigalex@example.com,Terry Mccarthy,spam_complaint,2021-02-08 00:00:00,organic_search,arts|finance
+4f193b32-66a8-40e6-ba14-65ff65537ef4,rebecca78@example.net,Mr. Todd Contreras,bounced,2021-10-22 00:00:00,email_campaign,health|finance
+164889dd-bdc8-410c-87cd-c256e2964088,pbutler@example.org,Megan Anderson,unsubscribed,2022-12-22 00:00:00,direct,entertainment|arts|finance|news|politics
+09b19e4a-7ba2-44d6-be8a-9adc352d2996,laurapatterson@example.net,Cynthia Patel,active,2020-03-01 00:00:00,organic_search,
+d7e59146-5b43-4f75-a34c-e7ab83b226a1,grodriguez@example.com,Ryan Lewis,spam_complaint,2023-11-29 00:00:00,direct,fashion|science|marketing|education|technology
+f4152f88-ba2d-4c0a-8112-fe7ff13ec8b8,dianavelazquez@example.org,Andrew Leon,unsubscribed,2021-09-21 00:00:00,paid_ad,finance|entertainment
+20a20baa-bdc8-49b2-ac29-3509dc2bc883,millerstephanie@example.net,,bounced,2023-08-08 00:00:00,social_media,marketing
+2d610009-b106-4965-b68c-a426d7ec31b4,gstephens@example.net,Andrew Nelson,bounced,2021-02-19 00:00:00,organic_search,health
+c2d9c4b2-0fd1-43f9-a63a-8aa3e07c54e5,welchchristine@example.com,Shawn Simpson,bounced,2024-12-16 00:00:00,direct,finance
+e2a8ccd3-f092-499c-a95c-32c0199a444d,martinpaul@example.net,Brandon Carlson,bounced,2024-05-16 00:00:00,social_media,arts|health
+1025fa10-98a9-4d35-90c0-a90dc80f37ef,proctormeredith@example.com,Sandra Vargas,active,2024-07-27 00:00:00,paid_ad,
+0c70aa84-bf4d-4a0a-af3d-20a1368385c0,wcampbell@example.org,Margaret Park,bounced,2020-02-21 00:00:00,email_campaign,finance
+08f42cb4-2a4a-460a-96ec-b3d12ff6fd38,chadortiz@example.net,Thomas Fuller,spam_complaint,2020-02-06 00:00:00,email_campaign,science
+1981f483-a57a-41fe-8403-3108b38f3ebd,prattcindy@example.net,Daniel Aguilar,bounced,2022-07-22 00:00:00,organic_search,sports
+1ccba697-0102-42fa-8ab5-47e76e73e813,lindarogers@example.net,Ruth Guzman,spam_complaint,2023-02-07 00:00:00,direct,business|science
+71d5fc69-da0c-47a6-9bd9-c618b4a8799e,patricia68@example.net,Julian Miller,bounced,2023-04-23 00:00:00,paid_ad,sports
+57e10b91-6f1b-4b22-80fc-ba56a50d5e6e,timothyfletcher@example.com,Tiffany Rodgers,unsubscribed,2020-07-13 00:00:00,email_campaign,news|health|technology|fashion
+6100b6b8-101f-4a74-a9f1-8012227d8a0c,brittanykirk@example.net,,unsubscribed,2024-10-06 00:00:00,organic_search,health|finance|marketing|arts
+54b9ae0d-728e-4c7f-8f1a-d68e76c37882,jose62@example.net,Gary Cardenas,pending,2020-04-22 00:00:00,direct,news|business|health|fashion
+019beb20-5d3b-4651-9838-04e0375b5fd8,khernandez@example.org,,bounced,2022-01-25 00:00:00,direct,business|arts|fashion|entertainment
+0d973f51-fc28-47c6-9a84-ba80b324adaa,chayes@example.com,Cody Prince,unsubscribed,2021-06-01 00:00:00,social_media,finance|marketing|news|business
+9af008de-e229-4785-83b1-0f576c97967b,james43@example.com,Sarah Brown,spam_complaint,2024-10-28 00:00:00,organic_search,
+d3638e25-d096-4872-b90a-14c0ec22285e,adrianchristian@example.com,Brett Morris,spam_complaint,2022-07-26 00:00:00,direct,fashion|news|health|arts
+9f47b241-4e7b-453f-97cd-cffcde527078,jefferydickson@example.net,Regina Hill,active,2023-04-04 00:00:00,referral,politics|science|news
+c690b4d3-27a8-4b76-9a05-3430edd95749,anthonyday@example.com,Erica Brown,pending,2021-03-23 00:00:00,email_campaign,education|entertainment|news
+9ba34d3d-7021-4317-9d6a-e580bb1e7cb3,annettenash@example.org,Patricia Harvey,pending,2023-04-28 00:00:00,email_campaign,health|sports|technology
+dc204c01-dfb5-4e23-b04b-e3039d6e47ad,ymatthews@example.net,Heidi Shaw,spam_complaint,2021-05-22 00:00:00,referral,technology|science|finance
+bd3f8778-5664-4152-97ae-d36c99056e78,jeffrey91@example.net,Joyce Adkins,active,2020-04-08 00:00:00,referral,technology|news
+6ac33e1e-bc86-43c4-a81d-84ff93c3c986,hbeck@example.org,Kathy Wilson,unsubscribed,2023-03-15 00:00:00,social_media,entertainment|finance|politics|arts|news
+91c003ff-9eb0-47a3-81c8-2bec46eb4c93,ruizedward@example.org,Heather Reynolds,bounced,2024-11-29 00:00:00,social_media,fashion|arts|politics|health
+c7a54fd2-c7ba-4646-b38a-3579b592bc36,greenjocelyn@example.com,Melanie Mitchell,bounced,2023-07-14 00:00:00,social_media,technology|science|business|entertainment
+a62af79d-4966-415c-99ee-8a94bfd597d8,johnsonfelicia@example.com,Kristin Warner,pending,2024-06-09 00:00:00,referral,politics|news|entertainment
+1f2c38b5-8d67-4611-86fb-d6af08306458,wrightcindy@example.net,Bryce Torres,unsubscribed,2022-01-27 00:00:00,social_media,education|fashion|politics|news
+9f78e175-e15c-4bf8-99b6-4faefdeb3634,dianelewis@example.com,Michael Hopkins,pending,2023-10-27 00:00:00,referral,arts|marketing
+ed35d3db-fc17-4364-8e36-1e6daeb4c3d7,erica80@example.com,Tara Morton,unsubscribed,2021-01-13 00:00:00,email_campaign,
+4efd30b4-9739-44e7-8c50-8bc4a7b3ac59,batkinson@example.com,Christine Harvey,active,2021-02-06 00:00:00,direct,education
+0c335b0b-0baf-4034-b4fe-9a0aeda7da1b,dmiller@example.com,Steven Klein,bounced,2022-09-19 00:00:00,paid_ad,politics
+680ff47b-22db-47f1-bb06-cfc4b0f6b703,sharon41@example.org,John Cole,spam_complaint,2024-08-20 00:00:00,organic_search,technology|health
+17552c6c-71f6-4f3e-982c-a6e0c3f8dc54,mandyjohnston@example.net,,bounced,2023-06-30 00:00:00,email_campaign,business|arts|education|news|finance
+c7bc603b-7e5d-491b-bd42-d23bc9e94d83,gilbertjim@example.org,Tammy Silva,spam_complaint,2024-11-21 00:00:00,email_campaign,health|fashion|politics
+ab211222-b614-4d8d-8c65-248af1c38962,wolsen@example.org,Sherry Jackson,active,2021-05-02 00:00:00,email_campaign,business|education
+4b5b2542-4b83-4efb-aac0-0c69cd1b3c91,hhouston@example.net,Monica Hawkins,active,2025-01-12 00:00:00,email_campaign,business|technology
+a09adfe6-8650-4e04-8329-e2655db4e5cc,scameron@example.net,Karen Howard,pending,2021-12-29 00:00:00,email_campaign,entertainment|finance|politics|fashion|sports
+eb4c45d4-b8ee-4a05-874f-83fe5d768495,desiree69@example.net,Beverly Scott,pending,2023-04-24 00:00:00,referral,finance
+431f0b95-4dee-4c9e-a6b3-857d18770cca,garciamary@example.org,Stephen Weeks,spam_complaint,2020-05-11 00:00:00,social_media,business|technology|entertainment|sports
+ef395658-db2b-48cf-a7cd-eceae325576e,wwatson@example.net,,pending,2023-11-15 00:00:00,email_campaign,
+49cde0a5-f791-4d6c-a71e-848f94436095,robertsonmiguel@example.com,James Potter,bounced,2024-06-28 00:00:00,organic_search,sports|news|fashion|health|science
+78612671-b300-4ac8-a90b-74b26da964ab,rodneyochoa@example.org,Mrs. Stephanie Campbell MD,pending,2020-03-25 00:00:00,social_media,sports|arts|finance|marketing|technology
+5f96d05c-4845-489b-8344-221538283ea7,rmartin@example.net,Joseph Watts,bounced,2025-01-11 00:00:00,social_media,health
+090b7b3c-196e-49e3-a2bf-f99eb28aa26c,natasha59@example.com,Sara Jones,spam_complaint,2023-03-28 00:00:00,social_media,news|technology|science|marketing|politics
+3d94b5d1-b0f7-4616-90a9-ef4f07e8bb74,millerbenjamin@example.org,Gary Moreno,bounced,2023-03-12 00:00:00,direct,fashion|entertainment|marketing|arts
+26f27c8f-148e-4f2f-83ec-7d3e514a9960,rwang@example.net,Sharon Dudley,spam_complaint,2020-09-15 00:00:00,social_media,finance|technology|sports|education
+7e181b95-8ff6-467b-b25d-a7214910f491,gabriella14@example.org,,bounced,2023-11-07 00:00:00,paid_ad,business|science
