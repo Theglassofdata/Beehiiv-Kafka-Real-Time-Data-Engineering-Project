@@ -1,4 +1,7 @@
 -- Activate the warehouse
+CREATE WAREHOUSE IF NOT EXISTS NEWSLETTER_WH;
+
+-- Activate the warehouse
 USE WAREHOUSE NEWSLETTER_WH;
 
 -- Create database if it doesn't exist
